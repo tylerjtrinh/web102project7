@@ -1,4 +1,4 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Crewmates*
 
 Submitted by: **Tyler Trinh**
 
@@ -32,6 +32,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img width="800" height="450" alt="crewmate-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a71a77f6-571d-44b1-b956-69076a2209c9" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur  
